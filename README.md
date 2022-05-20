@@ -1,2 +1,2 @@
 # Game-loot
-this is for testing and practsing
+the first site i made .. template from elzero web school 
